@@ -1,7 +1,5 @@
 function hei() {
-    console.log("hallo")
+  console.log("hei");
 }
 
-
-
-hei()
+hei();
