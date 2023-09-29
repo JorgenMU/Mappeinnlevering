@@ -1,0 +1,80 @@
+* {
+    text-align: center;
+}
+
+.BildeoppgaveId{
+    text-align: center;
+    background-color: rgb(45, 45, 45);
+    color: aliceblue;
+    font-size: 200%;
+    font-family: monospace;
+    margin: 2%;
+    border-radius: 2em;
+
+    
+    
+}
+.linuxJourney{
+    text-align: center;
+    background-color: rgb(45, 45, 45);
+    color: aliceblue;
+    font-size: 250%;
+    font-family: monospace;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 2em;
+
+}
+.intro{
+    font-family: monospace;
+    color: aliceblue;
+    font-size: 250%;
+}
+
+body{
+    background-color:rgb( 35, 35, 35) ;
+}
+
+h1{
+    font-size: 500%;
+    color: aliceblue;
+    font-family: monospace;
+}
+
+.bilde{
+    transition: 0.5s;
+    margin: 50px;
+}
+
+.bilde:hover {
+    margin: 25px;
+    width: 350px;
+    height: 350px;
+    transition: 0.5s;
+
+}
+
+.infoombilde{
+    position: absolute;
+}
+#bilde1{
+    left:8%;
+    background-color: #000;
+    color:white;
+    white-space: nowrap;
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+#bilde1:hover .infoombilde{
+    top: -130%;
+}
+.KommandobasertLinux{
+    text-align: center;
+    background-color: rgb(45, 45, 45);
+    color: aliceblue;
+    font-size: 250%;
+    font-family: monospace;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 2em;
+}
