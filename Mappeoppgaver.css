@@ -68,13 +68,3 @@ h1{
 #bilde1:hover .infoombilde{
     top: -130%;
 }
-.KommandobasertLinux{
-    text-align: center;
-    background-color: rgb(45, 45, 45);
-    color: aliceblue;
-    font-size: 250%;
-    font-family: monospace;
-    padding: 2%;
-    margin: 2%;
-    border-radius: 2em;
-}
